@@ -1,5 +1,5 @@
 <?php
-  // API_KEYを設定する用ファイルは個人で用意してください。  
+  // env.phpへご自身のchatgpt APIを使用するためのキーを設定  
   include('./../env.php');
 
 	// ChatGPT APIレスポンス処理
